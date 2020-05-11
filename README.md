@@ -6,9 +6,7 @@ Python3 script to set and finalize time attendance csv file and upload it to FTP
 * Required Libraries
 * All CSV should have the same columns header
 ## Environment requirements
-* Windows
-* Linux
-* MAC OS
+* Windows, Linux or MAC OS
 ## Tested on
 * Windows 10
 ## What it does
